@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0058-length-of-last-word) |
 ## Stack
 |  |
 | ------- |

@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0342-power-of-four) |
+| [0476-number-complement](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0476-number-complement) |
 ## Counting
 |  |
 | ------- |

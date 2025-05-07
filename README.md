@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1677-matrix-diagonal-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
+| [1677-matrix-diagonal-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 ## Simulation
 |  |
 | ------- |

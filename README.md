@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 ## String Matching
 |  |
 | ------- |

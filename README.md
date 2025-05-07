@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1677-matrix-diagonal-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1833-find-the-highest-altitude](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0342-power-of-four) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## String
 |  |
 | ------- |
@@ -183,4 +185,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0605-can-place-flowers) |
+## Number Theory
+|  |
+| ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->

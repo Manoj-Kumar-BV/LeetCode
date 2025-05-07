@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## Stack
 |  |
 | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
+| [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |

@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0283-move-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0283-move-zeroes) |
 ## String Matching
 |  |
 | ------- |

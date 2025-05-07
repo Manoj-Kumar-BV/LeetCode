@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0724-find-pivot-index) |
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
 | [1063-best-sightseeing-pair](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 ## Hash Table
 |  |
 | ------- |

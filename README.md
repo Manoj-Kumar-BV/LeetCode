@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0342-power-of-four) |
 ## String
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0050-powx-n](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0342-power-of-four) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0191-number-of-1-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0342-power-of-four) |
 ## Counting
 |  |
 | ------- |

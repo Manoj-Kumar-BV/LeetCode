@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
+| [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |

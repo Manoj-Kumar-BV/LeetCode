@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 ## String Matching
 |  |
 | ------- |

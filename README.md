@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0338-counting-bits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0190-reverse-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0338-counting-bits) |
 ## Counting
 |  |
 | ------- |

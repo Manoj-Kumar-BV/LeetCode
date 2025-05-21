@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0242-valid-anagram) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |

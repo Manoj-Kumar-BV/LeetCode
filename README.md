@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1833-find-the-highest-altitude](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3321-type-of-triangle](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
 | [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
 | ------- |

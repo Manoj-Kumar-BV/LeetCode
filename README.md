@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
+| [1019-squares-of-a-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1063-best-sightseeing-pair](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1063-best-sightseeing-pair) |
 | [1293-three-consecutive-odds](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
+| [1019-squares-of-a-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0414-third-maximum-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3321-type-of-triangle) |
 ## Bit Manipulation
 |  |

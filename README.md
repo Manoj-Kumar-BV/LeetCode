@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0238-product-of-array-except-self](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0268-missing-number) |
+| [0274-h-index](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0274-h-index) |
 | [0414-third-maximum-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [3321-type-of-triangle](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3321-type-of-triangle) |
@@ -214,4 +216,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->

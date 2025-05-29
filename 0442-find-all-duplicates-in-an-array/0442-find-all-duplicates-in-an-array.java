@@ -12,7 +12,7 @@ class Solution {
             }
         }
         for(Integer i : check.keySet()){
-            if(check.get(i) >= 2){
+            if(check.get(i) > 1){
                 result.add(i);
             }
         }

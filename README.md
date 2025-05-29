@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0055-jump-game) |
 | [0605-can-place-flowers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0605-can-place-flowers) |
 ## Number Theory
 |  |

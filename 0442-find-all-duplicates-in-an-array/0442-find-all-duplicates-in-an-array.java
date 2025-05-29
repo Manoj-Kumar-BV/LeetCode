@@ -1,8 +1,8 @@
-import java.util.Hashtable;
+import java.util.*;
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         ArrayList<Integer> result = new ArrayList<>();
-        Hashtable<Integer, Integer> check = new Hashtable<>();
+        HashMap<Integer, Integer> check = new HashMap<>();
 
         for(int num : nums){
             if(check.containsKey(num)){

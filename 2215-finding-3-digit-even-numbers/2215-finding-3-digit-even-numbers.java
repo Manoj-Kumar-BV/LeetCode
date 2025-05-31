@@ -1,27 +1,39 @@
 class Solution {
     public int[] findEvenNumbers(int[] digits) {
-        Set<Integer> result = new HashSet<>();
+        int freq[] = new int[10];
         for(int i=0; i<digits.length; i++){
-            for(int j=0; j<digits.length; j++){
-                for(int k=0; k<digits.length; k++){
-                    if(i==j || i==k || j==k){
-                        continue;
-                    }else{
-                        int num = (digits[i] * 100) + (digits[j] * 10) + (digits[k] * 1);
-
-                        if(num >= 100 && num % 2 == 0){
-                            result.add(num);
-                        }
-                    }
-                }
+            freq[digits[i]]++;
+        }
+        Set<Integer> set = new HashSet<>();
+        for(int i=1; i<=9; i++){
+            if(freq[i] == 0){
+                continue;
             }
+            freq[i]--;
+            for(int j=0; j<=9; j++){
+                if(freq[j] == 0){
+                    continue;
+                }
+                freq[j]--;
+                for(int k=0; k<=8; k+=2){
+                    if(freq[k] == 0){
+                        continue;
+                    }
+                    freq[k]--;
+                    int num = (i*100) + (j*10) + (k);
+                    set.add(num);
+                    freq[k]++;
+                }
+                freq[j]++;
+            }
+            freq[i]++;
         }
-        int[] arr = new int[result.size()];
-        int i=0; 
-        for(int num : result){
-            arr[i++] = num;
+        int result[] = new int[set.size()];
+        int i=0;
+        for(int num : set){
+            result[i++] = num;
         }
-        Arrays.sort(arr);
-        return arr;
+        Arrays.sort(result);
+        return result;
     }
 }

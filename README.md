@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3321-type-of-triangle) |
 ## Hash Table
 |  |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3321-type-of-triangle) |
 ## String
 |  |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |

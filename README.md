@@ -24,6 +24,7 @@ A collection of LeetCode questions!
 | [0073-set-matrix-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0191-number-of-1-bits) |
@@ -295,4 +297,8 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1013-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

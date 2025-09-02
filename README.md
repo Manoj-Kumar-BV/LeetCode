@@ -63,6 +63,7 @@ A collection of LeetCode questions!
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3321-type-of-triangle) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions!
 | [0680-valid-palindrome-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
 ## Stack
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions!
 | [0680-valid-palindrome-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## String Matching
 |  |
 | ------- |

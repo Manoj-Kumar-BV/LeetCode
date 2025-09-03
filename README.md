@@ -157,6 +157,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0020-valid-parentheses](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 ## Linked List
 |  |
@@ -316,4 +317,12 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0014-longest-common-prefix) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->

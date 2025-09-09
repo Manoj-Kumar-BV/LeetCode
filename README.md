@@ -132,6 +132,7 @@ A collection of LeetCode questions!
 | [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0371-sum-of-two-integers) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0059-spiral-matrix-ii) |
+| [0258-add-digits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0258-add-digits) |
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
@@ -300,6 +302,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0258-add-digits) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
 ## Counting Sort
 |  |

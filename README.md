@@ -17,6 +17,7 @@ A collection of LeetCode questions!
 | [0035-search-insert-position](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0055-jump-game) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions!
 | [0001-two-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0217-contains-duplicate) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions!
 | [0014-longest-common-prefix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0242-valid-anagram) |
@@ -252,6 +255,7 @@ A collection of LeetCode questions!
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0169-majority-element) |

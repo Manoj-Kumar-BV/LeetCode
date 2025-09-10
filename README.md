@@ -35,6 +35,7 @@ A collection of LeetCode questions!
 | [0137-single-number-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0204-count-primes) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions!
 | [0074-search-a-2d-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0268-missing-number) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions!
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0287-find-the-duplicate-number) |

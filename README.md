@@ -93,6 +93,7 @@ A collection of LeetCode questions!
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Binary Search
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions!
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions!
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0169-majority-element) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Prefix Sum
 |  |
 | ------- |

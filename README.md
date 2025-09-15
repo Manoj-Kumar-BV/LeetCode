@@ -91,6 +91,7 @@ A collection of LeetCode questions!
 | [0389-find-the-difference](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3227-find-missing-and-repeated-values](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3227-find-missing-and-repeated-values) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions!
 | [0389-find-the-difference](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0680-valid-palindrome-ii) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |

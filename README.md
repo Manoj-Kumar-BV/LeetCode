@@ -234,6 +234,7 @@ A collection of LeetCode questions!
 | [0392-is-subsequence](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0392-is-subsequence) |
 | [1013-fibonacci-number](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1013-fibonacci-number) |
 | [1063-best-sightseeing-pair](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1063-best-sightseeing-pair) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions!
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sorting
 |  |
 | ------- |
@@ -364,4 +366,5 @@ A collection of LeetCode questions!
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->

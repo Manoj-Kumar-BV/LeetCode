@@ -26,12 +26,12 @@ class Solution {
         return result;
     }
 
-    private boolean isunique(String s){
-        Set<Character> result = new HashSet<>();
-        for(char c : s.toCharArray()){
-            if(result.contains(c))  return false;
-            result.add(c);
-        }
-        return true;
-    }
+    // private boolean isunique(String s){
+    //     Set<Character> result = new HashSet<>();
+    //     for(char c : s.toCharArray()){
+    //         if(result.contains(c))  return false;
+    //         result.add(c);
+    //     }
+    //     return true;
+    // }
 }

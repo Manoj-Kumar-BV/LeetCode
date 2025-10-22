@@ -71,6 +71,7 @@ A collection of LeetCode questions!
 | [1833-find-the-highest-altitude](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2106-find-greatest-common-divisor-of-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions!
 | [1264-maximum-number-of-words-you-can-type](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1894-merge-strings-alternately](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3194-find-words-containing-character](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -275,6 +277,7 @@ A collection of LeetCode questions!
 | [0898-transpose-matrix](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/0898-transpose-matrix) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2048-build-array-from-permutation) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Manoj-Kumar-BV/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Sorting
 |  |
